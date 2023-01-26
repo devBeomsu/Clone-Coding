@@ -1,0 +1,20 @@
+//
+//  MainTabBarVC.swift
+//  RCProject1
+//
+//  Created by Steve on 2022/10/25.
+//
+
+import UIKit
+
+class MainTabBarVC: UITabBar {
+
+    /*
+    // Only override draw() if you perform custom drawing.
+    // An empty implementation adversely affects performance during animation.
+    override func draw(_ rect: CGRect) {
+        // Drawing code
+    }
+    */
+
+}
